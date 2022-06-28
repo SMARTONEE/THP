@@ -1,0 +1,11 @@
+#topbar
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#logogoogle
+{
+    display: flexbox;
+}
